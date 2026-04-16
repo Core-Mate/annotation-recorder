@@ -1,0 +1,10 @@
+<resources>
+    <color name="md_theme_light_primary">#005F73</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_secondary">#0A9396</color>
+    <color name="md_theme_light_background">#F5FBFB</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#102A2C</color>
+    <color name="launcher_bg">#E6F4F4</color>
+    <color name="launcher_fg">#0A9396</color>
+</resources>
